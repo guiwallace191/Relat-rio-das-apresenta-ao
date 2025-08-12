@@ -1,6 +1,6 @@
 <!-- Capa do Projeto -->
 <p align="center">
-  <img src="capa.png" alt="Capa do Projeto" width="800"/>
+  <img src="capa.png.png" alt="Capa do Projeto" width="800"/>
 </p>
 
 <!-- Título -->
