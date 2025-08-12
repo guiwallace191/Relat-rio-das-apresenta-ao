@@ -5,16 +5,6 @@
 
 <!-- Título -->
 <h1 align="center">📊 Relatório das Apresentações</h1>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Status-Concluído-green" />
-  <img src="https://img.shields.io/github/last-commit/guiwallace191/Relat-rio-das-apresenta-ao" />
-</p>
-
----
-
 ## 📌 Sobre o Projeto
 Este repositório contém um relatório detalhado sobre diferentes bibliotecas Python utilizadas para desenvolvimento, análise de dados, automação e visualização.
 
