@@ -8,6 +8,8 @@
 ## 📌 Sobre o Projeto
 Este repositório contém um relatório detalhado sobre diferentes bibliotecas Python utilizadas para desenvolvimento, análise de dados, automação e visualização.
 
+# canva
+https://www.canva.com/design/DAGvMqjirlI/GECfXSQWO0Ic7Zb6HbxfYw/edit
 ---
 
 ## 📚 Bibliotecas Abordadas
