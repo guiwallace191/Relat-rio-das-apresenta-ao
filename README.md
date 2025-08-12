@@ -46,3 +46,8 @@ Este repositório contém um relatório detalhado sobre diferentes bibliotecas P
 ### 🖱 **PyAutoGUI**
 - Automação de interface gráfica.
 - Controle de mouse, teclado e captura de tela.
+
+- ## 💻 Códigos do Projeto
+
+- [Código pyqt](pyqt.py)
+- [Código Tkinker](tkinker.py)
