@@ -1,2 +1,2 @@
-![Capa do Projeto](foto.png)
+![Capa do Projeto](capa.png)
 # Relatorio-das-apresentação
